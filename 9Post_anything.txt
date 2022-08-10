@@ -1,0 +1,23 @@
+{
+    "args": {
+        "course": "Testing",
+        "group": "QA22",
+        "name": "Inna",
+        "surname": "Peklun"
+    },
+    "data": "",
+    "files": {},
+    "form": {},
+    "headers": {
+        "Accept": "*/*",
+        "Accept-Encoding": "gzip, deflate, br",
+        "Content-Length": "0",
+        "Host": "httpbin.org",
+        "User-Agent": "PostmanRuntime/7.29.2",
+        "X-Amzn-Trace-Id": "Root=1-62f2d0b2-6242f43a0c7fd7747ace7f9a"
+    },
+    "json": null,
+    "method": "POST",
+    "origin": "86.153.11.213",
+    "url": "http://httpbin.org/anything?name=Inna&surname=Peklun&course=Testing&group=QA22"
+}

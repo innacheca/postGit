@@ -1,0 +1,17 @@
+{
+    "args": {},
+    "data": "",
+    "files": {},
+    "form": {},
+    "headers": {
+        "Accept": "*/*",
+        "Accept-Encoding": "gzip, deflate, br",
+        "Content-Length": "0",
+        "Host": "httpbin.org",
+        "User-Agent": "PostmanRuntime/7.29.2",
+        "X-Amzn-Trace-Id": "Root=1-62f2cfc2-1eaaa6fe4ae1f83b74905e1e"
+    },
+    "json": null,
+    "origin": "86.153.11.213",
+    "url": "http://httpbin.org/post"
+}
